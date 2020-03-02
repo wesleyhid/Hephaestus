@@ -1,0 +1,12 @@
+ * Problema: análise de dados e estatísticas das empresas listadas na bolsa de valores são muitos, dispersos e impossível de fazer download automático gratuito, dificultando a análise.
+ * Proposta de solução: Incluir esses dados disperos num único banco de dados, manualmente.
+ * Tarefas:
+   PARTE I
+   1) Listar as fontes de dados, bem como os campos que irão ser armazenados.
+   2) Criar estrutura no banco de dados.
+   3) Criar código pl/sql para importar os dados.
+
+   PARTE II
+   1) Criar estatíticas com os dados
+   2) Criar gráficos com os dados
+   3) Criar robô inteligente para identificar padrões nos dados
